@@ -10,7 +10,7 @@ At Brock University, I earned a Bachelor of Sport Management (BSM). This program
 
 ### Humber Polytechnic
 
-#### Graduate Certificate, Web Development
+#### Graduate Certificate, Web Development (2025-2026)
 
 Humber’s Web Development graduate certificate program focuses on the development of websites and web services for multiple environments including database-driven programming, content management systems and mobile services.
 
